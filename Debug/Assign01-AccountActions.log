@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Assign01-AccountActions.cpp
+e:\csis 223\vcprojectsoop\assign01-accountactions\assign01-accountactions.cpp(96): warning C4715: 'getActionCode': not all control paths return a value
+  Assign01-AccountActions.vcxproj -> E:\CSIS 223\VCProjectsOOP\Assign01-AccountActions\Debug\Assign01-AccountActions.exe
+  Assign01-AccountActions.vcxproj -> E:\CSIS 223\VCProjectsOOP\Assign01-AccountActions\Debug\Assign01-AccountActions.pdb (Full PDB)
